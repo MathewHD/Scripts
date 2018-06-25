@@ -1,2 +1,3 @@
 rsop.msc
-gpresult
+gpresult /h c:\users\%username%\Desktop\GroupPolicyResults.html
+Chrome.exe c:\users\%username%\Desktop\GroupPolicyResults.html
